@@ -19164,5 +19164,12 @@
     "author": "Emanuel Oliveira",
     "description": "Cycle text capitalisation (lowercase, Capitalise Each Word, UPPERCASE).",
     "repo": "hardpath/obsidian-capitalise-plugin"
-  }
+  },
+  {
+    "id": "inline-embed-editor",
+    "name": "Inline Embed Editor",
+    "author": "Roman Samoilenko",
+    "description": "Edit any Markdown note from inside another note using editembed code blocks. Changes auto-save, sync across open instances, and support full theme compatibility.",
+    "repo": "Roman-Samoilenko/obsidian-inline-embed-editor"
+}
 ]
